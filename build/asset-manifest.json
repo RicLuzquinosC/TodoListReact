@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-github-pages/build/static/css/main.8110090c.css",
-    "main.js": "/react-github-pages/build/static/js/main.1ebcf345.js",
-    "static/js/787.97a945da.chunk.js": "/react-github-pages/build/static/js/787.97a945da.chunk.js",
-    "index.html": "/react-github-pages/build/index.html",
-    "main.8110090c.css.map": "/react-github-pages/build/static/css/main.8110090c.css.map",
-    "main.1ebcf345.js.map": "/react-github-pages/build/static/js/main.1ebcf345.js.map",
-    "787.97a945da.chunk.js.map": "/react-github-pages/build/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/TodoListReact/build/static/css/main.8110090c.css",
+    "main.js": "/TodoListReact/build/static/js/main.3a92c47b.js",
+    "static/js/787.97a945da.chunk.js": "/TodoListReact/build/static/js/787.97a945da.chunk.js",
+    "index.html": "/TodoListReact/build/index.html",
+    "main.8110090c.css.map": "/TodoListReact/build/static/css/main.8110090c.css.map",
+    "main.3a92c47b.js.map": "/TodoListReact/build/static/js/main.3a92c47b.js.map",
+    "787.97a945da.chunk.js.map": "/TodoListReact/build/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8110090c.css",
-    "static/js/main.1ebcf345.js"
+    "static/js/main.3a92c47b.js"
   ]
 }
