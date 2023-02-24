@@ -46,7 +46,7 @@ export default function TodoApp() {
     }
 
     return <div className="todoContainer">
-        <h1>Tareas pendientes</h1>
+        <h1>Lista de tareas pendientes - RicLuzquinosC</h1>
         <form className="todoCreateForm" onSubmit={handleSubmit}>
             <input onChange={handleChange} className="todoInput" value={title} placeholder="Digita tu tarea"  />
             <input onClick={handleSubmit} type="submit" value="Agregar" className="buttonCreate" />
